@@ -1,0 +1,20 @@
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Diretórios de dependências
+venv/
+__pycache__/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações específicas da IDE
+.idea/
+.vscode/
+
+# Arquivos de ambiente e configuração local
+.venv
+.settings/
+.python-version

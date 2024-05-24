@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Lucas Gabriel da Mata",
+        "email": "araujogabrielly@example.org",
+        "telefone": "+55 (081) 3313-9640",
+        "endereco": "Parque Cecilia Cavalcanti, 54\nVila Independencia 3a Secao\n60529-089 Nunes / MT",
+        "renda": 947.07
+    },
+    {
+        "nome": "Guilherme Andrade",
+        "email": "taragao@example.net",
+        "telefone": "0800-440-9883",
+        "endereco": "Praca de Silveira, 317\nInconfidencia\n54298-907 Andrade / PR",
+        "renda": 533.71
+    },
+    {
+        "nome": "Arthur Gabriel Peixoto",
+        "email": "lucas-gabriel91@example.org",
+        "telefone": "11 4070 9013",
+        "endereco": "Residencial Manuella Cavalcanti, 33\nPenha\n11046480 Guerra Alegre / CE",
+        "renda": 311.4
+    },
+    {
+        "nome": "Joao Lucas Araujo",
+        "email": "danilo67@example.net",
+        "telefone": "+55 (031) 0807 8863",
+        "endereco": "Rua Sarah Melo\nSanta Cecilia\n88129-609 Cirino de Fogaca / SP",
+        "renda": 890.22
+    },
+    {
+        "nome": "Maria Cecilia Peixoto",
+        "email": "gael-henrique25@example.org",
+        "telefone": "(021) 7324 7050",
+        "endereco": "Passarela de Sousa, 69\nMaravilha\n68021521 Alves do Norte / AL",
+        "renda": 102.73
+    },
+    {
+        "nome": "Maya Correia",
+        "email": "maria-luisa96@example.org",
+        "telefone": "(084) 7283-4387",
+        "endereco": "Loteamento Cavalcante\nBarao Homem De Melo 1a Secao\n34509773 Mendes Paulista / PA",
+        "renda": 341.85
+    },
+    {
+        "nome": "Ester Pinto",
+        "email": "theodoroda-rosa@example.org",
+        "telefone": "+55 (031) 5626 3915",
+        "endereco": "Sitio de Carvalho, 46\nSao Pedro\n70839-180 Novaes / RS",
+        "renda": 861.77
+    },
+    {
+        "nome": "Leticia Siqueira",
+        "email": "costaraquel@example.com",
+        "telefone": "+55 31 5290 6578",
+        "endereco": "Morro Andre Sales, 876\nCarlos Prates\n92304336 Castro / AM",
+        "renda": 875.01
+    },
+    {
+        "nome": "Erick Barbosa",
+        "email": "jrodrigues@example.org",
+        "telefone": "+55 (011) 3954-8416",
+        "endereco": "Vereda Porto, 3\nAcaiaca\n97265-501 Nunes / RJ",
+        "renda": 940.5
+    },
+    {
+        "nome": "Otto Teixeira",
+        "email": "carlos-eduardo65@example.com",
+        "telefone": "(051) 4632-8015",
+        "endereco": "Recanto de Cavalcanti, 67\nSanta Helena\n09727174 Sousa / MA",
+        "renda": 985.86
+    },
+    {
+        "nome": "Enzo Gabriel Sales",
+        "email": "xsampaio@example.org",
+        "telefone": "+55 (081) 1932-1803",
+        "endereco": "Favela Elisa da Luz, 38\nJardim Alvorada\n92934-736 Goncalves do Galho / AP",
+        "renda": 995.58
+    },
+    {
+        "nome": "Maysa Camara",
+        "email": "siqueiralucca@example.org",
+        "telefone": "+55 (081) 9484-6486",
+        "endereco": "Patio de Costa, 405\nEsplanada\n58248847 Novais / PI",
+        "renda": 117.51
+    },
+    {
+        "nome": "Laura Azevedo",
+        "email": "maria-helena56@example.org",
+        "telefone": "(084) 7100-3832",
+        "endereco": "Trevo Gabriel Cardoso, 41\nSao Tomaz\n23212-932 Monteiro / RJ",
+        "renda": 234.73
+    },
+    {
+        "nome": "Ana Martins",
+        "email": "onascimento@example.org",
+        "telefone": "0300-505-1918",
+        "endereco": "Feira de Machado, 52\nJardim Felicidade\n42738363 Fernandes / GO",
+        "renda": 570.13
+    },
+    {
+        "nome": "Marcos Vinicius Pires",
+        "email": "alexandre60@example.org",
+        "telefone": "+55 (031) 7252 2084",
+        "endereco": "Quadra da Mata, 67\nSao Francisco\n31980-214 Silveira / PR",
+        "renda": 865.9
+    },
+    {
+        "nome": "Renan Marques",
+        "email": "marcos-viniciusda-rosa@example.org",
+        "telefone": "+55 11 7945 3847",
+        "endereco": "Rua Novaes, 71\nSalgado Filho\n60938620 Rezende / RR",
+        "renda": 667.84
+    },
+    {
+        "nome": "Nathan Cunha",
+        "email": "jadedias@example.org",
+        "telefone": "+55 (031) 9767-3794",
+        "endereco": "Parque Joao Felipe Cardoso, 36\nPousada Santo Antonio\n70387-041 Almeida de Abreu / AM",
+        "renda": 752.81
+    },
+    {
+        "nome": "Gustavo Sa",
+        "email": "iferreira@example.org",
+        "telefone": "(051) 3865-7757",
+        "endereco": "Feira de Monteiro, 4\nOuro Minas\n22899500 Rios / MT",
+        "renda": 546.32
+    },
+    {
+        "nome": "Ana Julia Caldeira",
+        "email": "carlos-eduardomachado@example.com",
+        "telefone": "11 7276 6356",
+        "endereco": "Passarela de Macedo, 61\nVila Jardim Sao Jose\n63111928 Monteiro de Nunes / MA",
+        "renda": 525.92
+    },
+    {
+        "nome": "Lucas Gabriel Fogaca",
+        "email": "fcosta@example.net",
+        "telefone": "(031) 6013-4105",
+        "endereco": "Estacao Maria Liz Garcia\nDom Bosco\n63302-377 Campos / TO",
+        "renda": 825.93
+    }
+]
