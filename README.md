@@ -1,6 +1,8 @@
-# Projeto destinado a aprendizado referente ao curso [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)
-## Este primeiro projeto é focado em realizar um ETL basico de multiplos arquivos de diferentes extensões (.csv, .json e .xml)
-## É realizado a Extração, Transformação e Carregamento dos dados, além disso também foi nos passado uma forma dinamica de criar um arquivo de log para controle de erro baseado nas funções desenvolvidas utilizando POO. 
+# Projeto de ETL by IBM
+
+Projeto destinado a aprendizado referente ao curso [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)
+Este primeiro projeto é focado em realizar um ETL basico de multiplos arquivos de diferentes extensões (.csv, .json e .xml)
+É realizado a Extração, Transformação e Carregamento dos dados, além disso também foi nos passado uma forma dinamica de criar um arquivo de log para controle de erro baseado nas funções desenvolvidas utilizando POO. 
 
 ![Imagem](https://assets-global.website-files.com/634fa785d369cb60d80b6dd1/6393298e18f50e62a1657530_ETL%20process%20DataChannel.webp)
 
