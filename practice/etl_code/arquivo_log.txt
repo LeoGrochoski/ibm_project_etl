@@ -1,0 +1,8 @@
+ETL Iniciado: [2024-May-28-15:06:50]
+Fase de Extracao iniciada: [2024-May-28-15:06:50]
+Fase de Extracao finalizada: [2024-May-28-15:06:50]
+Fase de Transformacao iniciada: [2024-May-28-15:06:50]
+Fase de Transformacao finalizada: [2024-May-28-15:06:50]
+Fase de Carregamento iniciada: [2024-May-28-15:06:50]
+Fase de Carregamento finalizado: [2024-May-28-15:06:50]
+ETL Finalizado: [2024-May-28-15:06:50]
